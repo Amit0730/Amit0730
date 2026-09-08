@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Hi there, I'm Amit Kumar Singh 👋
+# ⚡ Hi, I'm Amit Kumar Singh 👋
 ### **Software Engineer • AI/ML Specialist • Video Editor & Designer**
 
 <p align="center">
